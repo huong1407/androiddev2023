@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: *Nguyen Lan Huong*
+* ID: *BA11-050*
+* Group ID: *Group 1*
 
